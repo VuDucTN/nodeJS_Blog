@@ -1,0 +1,26 @@
+{
+  "name": "blog_nodejs_expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuDucTN/nodeJS_Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VuDucTN/nodeJS_Blog/issues"
+  },
+  "homepage": "https://github.com/VuDucTN/nodeJS_Blog#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
